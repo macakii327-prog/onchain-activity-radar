@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+contract_db/
+data/
+logs/
+*.json
+!.env.example
+archive/
+deep_monitor.log
